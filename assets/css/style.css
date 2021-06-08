@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin-bottom: 13vh;
+}
+
+button {
+    
+    width: 15%;
+    color: #fff;
+    background-color: #2E2E2E;
+    border-radius: 4px;
+    border: none;
+    padding: 2vh;
+    margin-right: 4%;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: #3d3a3a;
+}
+
+figure{
+    margin-top: 22vh;
+}
+
+figure,
+figcaption{
+    text-align: center;
+}
+
+
+
+section{
+    margin-left: 24.5%;
+    display: flex;
+    justify-content: left;
+   
+}
+
+
+figcaption{
+    padding: 1.3vh;
+    font-weight: bold;
+    
+}
+
+
+
